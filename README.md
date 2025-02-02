@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Zinotozerg13 
-- 👀 I’m interested in football and ya coding
-- 🌱 I’m currently learning bachelor in computer engineering
-- 💞️ I’m looking to collaborate on any simple project
-- 📫 How to reach me ... u can gmail me in my acc @ron.ranjit998@gmail.com
+Hi there, I'm Ronish Ranjit 👋
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating innovative solutions.
 
-<!---
-Zinotozerg13/Zinotozerg13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+🔭 Currently working on a Spring Boot project
 
+🌱 Learning advanced Spring Boot features
+
+👯 Looking to collaborate on MERN and java  projects
+
+📫 Reach me at: ron.ranjit998@gmail.com
+
+Skills
+Languages: Java,python,Javascript,c++,sql,html/css
+
+Frameworks: Spring Boot, React,mysql,postgresql,node
+
+Tools: Postman,Git,Github
+
+Get in Touch
+[LinkedIn]in/ronish-ranjit/)
