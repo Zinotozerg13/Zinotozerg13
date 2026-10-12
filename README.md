@@ -1,21 +1,61 @@
-Hi there, I'm Ronish Ranjit 👋
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating innovative solutions.
+# Hi there, I'm Ronish Ranjit 👋
 
-About Me
-🔭 Currently working on a Spring Boot project
+Welcome to my GitHub profile! I'm a Computer Engineering student passionate about **Machine Learning, Data Mining, and Artificial Intelligence**. I enjoy exploring data, developing predictive models, and using technology to solve real-world problems.
 
-🌱 Learning advanced Spring Boot features
+## 🔭 About Me
 
-👯 Looking to collaborate on MERN and java  projects
+* 🌱 Currently expanding my knowledge of Machine Learning, Deep Learning, and Data Mining.
+* 🤖 Interested in Artificial Intelligence, Computer Vision, Predictive Analytics, and Data Science.
+* 📊 Exploring data preprocessing, exploratory data analysis, feature engineering, and model optimization.
+* 🧠 Learning to build intelligent systems using data-driven approaches.
+* 👯 Open to collaborating on Machine Learning, AI, and Data Science projects.
+* 📫 Reach me at: [ron.ranjit998@gmail.com](mailto:ron.ranjit998@gmail.com)
 
-📫 Reach me at: ron.ranjit998@gmail.com
+## 🛠️ Skills
 
-Skills
-Languages: Java,python,Javascript,c++,sql,html/css
+**Programming Languages**
 
-Frameworks: Spring Boot, React,mysql,postgresql,node
+* Python
+* Java
+* C++
+* JavaScript
+* SQL
 
-Tools: Postman,Git,Github
+**Machine Learning & Data Science**
 
-Get in Touch
-[LinkedIn]in/ronish-ranjit/)
+* Machine Learning Algorithms
+* Data Mining
+* Data Preprocessing and Analysis
+* Predictive Modeling
+* Deep Learning
+* Computer Vision
+
+**Libraries & Tools**
+
+* NumPy
+* Pandas
+* Scikit-learn
+* TensorFlow
+* Jupyter Notebook
+* Git & GitHub
+* MySQL
+* PostgreSQL
+* Postman
+
+## 🎯 Interests
+
+* Artificial Intelligence and Machine Learning
+* Data Mining and Knowledge Discovery
+* Predictive Analytics
+* Deep Learning and Neural Networks
+* Computer Vision
+* Data-Driven Problem Solving
+
+## 🤝 Let's Connect
+
+* 📧 Email: [ron.ranjit998@gmail.com](mailto:ron.ranjit998@gmail.com)
+* 💼 LinkedIn: Add your LinkedIn profile URL here.
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
