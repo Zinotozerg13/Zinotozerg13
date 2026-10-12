@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I'm a Computer Engineering student passionate abou
 ## 🤝 Let's Connect
 
 * 📧 Email: [ron.ranjit998@gmail.com](mailto:ron.ranjit998@gmail.com)
-* 💼 LinkedIn: Add your LinkedIn profile URL here.
+* 💼 LinkedIn: (https://www.linkedin.com/in/ronish-ranjit/)
 
----
+
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
